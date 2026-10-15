@@ -9,13 +9,13 @@ Welcome to the official repository of the Type-C to Micro SD Card Reader, meticu
 Here are the complete design stages and technical schematics of the hardware:
 
 ### 1. 3D Render View
-![Project 3D Render](images/3d_render.png)
+![Project 3D Render](3d.png)
 
 ### 2. 2D Top/Bottom Layout
-![Project 2D Layout](images/2d_layout.png)
+![Project 2D Layout](2d.png)
 
 ### 3. Schematic Diagram
-![Project Schematic](images/schematic.png)
+![Project Schematic](drawing.png)
 
 ---
 
